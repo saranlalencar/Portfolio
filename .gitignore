@@ -34,3 +34,9 @@ coverage
 
 # OS files
 Thumbs.db
+
+node_modules/
+package-lock.json
+.vscode/
+.idea/
+*.log
